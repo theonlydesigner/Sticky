@@ -1,13 +1,13 @@
-# holosticker 3d studio
+# mockyoursticker
 
 An interactive, browser-based 3d studio for generating realistic holographic, high-gloss, matte, and foil sticker mockups in real time. built with **Three.js** and **WebGL** [because writing custom canvas shader math from scratch sounded like a fast track to a mental breakdown]. upload your artwork, tweak physical material finishes, orbit around in 3d space using cad-style controls, and export crisp PNG mockups instantly without melting your browser.
 
-![HoloSticker 3D Studio App Screenshot](docs/hero-banner.png)
+![MockYourSticker Screenshot](images/home.png)
 *(full-screen studio view with custom holographic shaders running on a dark canvas)*
 
 ---
 
-## ✨ features
+## features
 
 - **Multi-Format File Support**: drag and drop or browse files in `PNG`, `JPG`, `WEBP`, or `SVG` formats [so you don't have to manually convert everything beforehand].
 - **Physical Material Finishes**:
@@ -35,7 +35,7 @@ An interactive, browser-based 3d studio for generating realistic holographic, hi
 
 | Holographic | High Gloss | Matte Finish | Metallic Foil |
 | :---: | :---: | :---: | :---: |
-| ![Holographic](docs/finish-holo.png) | ![High Gloss](docs/finish-gloss.png) | ![Matte Finish](docs/finish-matte.png) | ![Metallic Foil](docs/finish-glitter.png) |
+| ![Holographic](images/holo.png) | ![High Gloss](images/gloss.png) | ![Matte Finish](images/matte.png) | ![Metallic Foil](images/metal.png) |
 
 ---
 
