@@ -1,6 +1,7 @@
 # mockyoursticker
 
-An interactive, browser-based 3d studio for generating realistic holographic, high-gloss, matte, and foil sticker mockups in real time. built with **Three.js** and **WebGL** [because writing custom canvas shader math from scratch sounded like a fast track to a mental breakdown]. upload your artwork, tweak physical material finishes, orbit around in 3d space using cad-style controls, and export crisp PNG mockups instantly without melting your browser. [*Time Taken*:6hrs]
+An interactive, browser-based 3d studio for generating realistic holographic, high-gloss, matte, and foil sticker mockups in real time. built with **Three.js** and **WebGL** [because writing custom canvas shader math from scratch sounded like a fast track to a mental breakdown]. upload your artwork, tweak physical material finishes, orbit around in 3d space using cad-style controls, and export crisp PNG mockups instantly without melting your browser.
+[**Time Taken**:6hrs]
 
 ![MockYourSticker Screenshot](images/home.png)
 *(full-screen studio view with custom holographic shaders running on a dark canvas)*
